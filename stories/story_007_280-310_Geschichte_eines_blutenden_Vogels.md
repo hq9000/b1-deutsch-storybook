@@ -1,6 +1,6 @@
 ## Geschichte eines blutenden Vogels
 
-story number 7, storybook ids: 281-311
+story number 7, storybook ids: 280-310
 
 | **German Word**      | **English Translation**    | **Russian Translation**  | **Example Sentence in German**                   |
 |----------------------|----------------------------|--------------------------|-------------------------------------------------|
