@@ -1,4 +1,4 @@
-## Ein Tag im Wortschatzland
+## Geschichte eines blutenden Vogels
 
 story number 7, storybook ids: 281-311
 
@@ -38,7 +38,7 @@ story number 7, storybook ids: 281-311
 
 ---
 
-**Ein Tag im Wortschatzland**
+**Geschichte eines blutenden Vogels**
 
 Am Morgen stand ich auf **das Trottoir** und konnte nicht **aufhören**, das **lächelnde Kind** zu beobachten. Plötzlich fing ein Vogel an zu **bluten**, nachdem er gegen ein Fenster geflogen war. Zum Frühstück entschied ich mich für ein Sandwich mit **Schinken** und **Salz**. Während des **Krieges** war es schwierig, solche Delikatessen zu finden, aber heute ist es **völlig** normal. Ich gehe **oft** in **das Geschäft** in meiner Nähe, um Lebensmittel zu kaufen.
 
