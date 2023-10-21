@@ -58,23 +58,3 @@ story number 5, storybook ids: 199-249
 | die Zigarette            | the cigarette                   | сигарета                       | Ich suche nach einer **Zigarette**.             |
 | zusammenfassen           | to summarize                    | подводить итог                 | Kannst du das **zusammenfassen**?               |
 | die Erde                 | the earth, soil                 | Земля, почва                   | Wir leben auf **der Erde**.                     |
-
----
-
-**Titel:** "Silvester am Flughafen"
-
----
-
-Während **Silvester**, in einer **städtischen** Gegend, schaute ich aus dem Fenster und konnte **nirgends** einen **Fluss** finden. Anstatt zu feiern, hatte ich den Wunsch, zu reisen. Ich nahm **die Einladung** meiner **Eltern** an und beschloss, **innerhalb** der nächsten Tage zu ihnen zu fahren.
-
-Am nächsten Morgen, zog ich meine Sachen **aus** und packte sie in mein **Kraftfahrzeug**. Als ich zum **Flughafen** fuhr, sah ich ein **Plakat** mit einem großen **Pilz** darauf und daneben ein **Inserat** für **die Semmel** und **die Marille** aus einem lokalen Bäckerladen.
-
-Am Flughafen, gab es eine große **Umleitung**, und ich fand mich im falschen **Abteilung**. Ein **Serviceangestellte** kam zu Hilfe und gab mir **zusätzliche** Informationen. Während unserer **Unterhaltung**, schrie jemand „**Woher** hast du diese **Zahnbürste**?“ Ich schaute hinüber und sah eine Gruppe **Zuschauer** um ein **Video** herum, das ein Kind zeigte, das seine Katze mit einer **Gabel** **füttert**.
-
-Ich dachte, das ist **wahnsinnig**. Ich entschied mich, meine Wartezeit zu **zählen**, indem ich ein Buch über die **Erde** las. Der **Titel** war „**Die Erde** und ihre Geheimnisse“. In dem Buch gab es eine **Verabredung** zwischen zwei Abenteurern, die in den Bergen **steigen** wollten.
-
-Ich hörte plötzlich jemanden sagen, „**Zusammenfassen** bitte!“ und bemerkte, dass ich meine **Zigarette** auf dem Boden verloren hatte. Ein **Leiter** von einer **Notaufnahme**-Abteilung kam vorbei und riet mir, sicherer zu sein und mich zu **versichern**.
-
-Als ich endlich ankam, begrüßten mich meine Eltern mit einer warmen **Umarmung**. Meine Mutter sagte, dass sie gerade eine **Rüebli**-Suppe gemacht hat und dass das **Bad** bereit ist, falls ich mich frisch machen möchte. Mein Vater fügte hinzu, dass **zuletzt** die **Qualität** des Wassers verbessert wurde, da sie ein neues Filtersystem installiert hatten.
-
-Ich lachte und sagte, „Es ist **zufällig**, ich habe tatsächlich einen **Staub**-Filter für euch gekauft!“. Wir lachten und genossen unsere **Ferien** **zusammen**.
