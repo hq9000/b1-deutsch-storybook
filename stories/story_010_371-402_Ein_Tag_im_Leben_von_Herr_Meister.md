@@ -16,11 +16,6 @@ Er ging weiter und setzte sich auf **die Bank** **neben** dem Blumenladen. Er wa
 
 Am Ende des Tages kehrte Herr **Meister** nach Hause zurück und dachte über all die Ereignisse des Tages nach, besonders über die **Anrede** von Frau Schmidt und wie sie ihm immer wieder **danken** wollte.
 
----
-
-Ich hoffe, diese Geschichte hilft Ihnen, sich an die Worte zu erinnern! Es kann nützlich sein, sie ein paar Mal zu lesen, um die Wörter besser zu behalten.
-
-
 | the word            | English translation | Russian translation | Example sentence in German                               |
 |---------------------|---------------------|---------------------|---------------------------------------------------------|
 | arbeiten            | work                | работать            | Ich muss heute lange **arbeiten**.                       |
