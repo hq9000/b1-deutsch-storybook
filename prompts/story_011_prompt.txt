@@ -2,7 +2,7 @@ I will give you a list of german words. I want you to create a text that will he
 
 I want you to mark the words from the list bold.
 
-I want the story to be in general about "das Messer"
+I want the story to be in genereal about "das Messer"
 
 the list of words follows:
 
