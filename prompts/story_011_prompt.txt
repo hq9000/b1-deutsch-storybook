@@ -1,0 +1,38 @@
+I will give you a list of german words. I want you to create a text that will help me to memorize them. It should have a title.
+
+I want you to mark the words from the list bold.
+
+I want the story to be in general about "das Messer"
+
+the list of words follows:
+
+verändern
+Sportart
+Lebensmittel
+geradeaus
+Bekannte
+ungenügend
+Tomate
+Ticket
+Problem
+tippen
+Obst
+Zelt
+früher/früher
+Zinsen
+Welt
+Frucht
+Messer
+Bancomat
+Länge
+normalerweise
+um … zu
+Erholung
+Haustier
+kosten
+Mehrheit
+ausgebildet
+Parfüm
+Betrieb
+Messe
+Anzug
