@@ -1,0 +1,37 @@
+I will give you a list of german words. I want you to create a text that will help me to memorize them. It should have a title.
+
+I want you to mark the words from the list bold
+
+the list of words follows:
+
+waschen
+Bitte
+Wohnort
+Entschuldigung
+nach
+arbeiten
+danken
+der Bauernhof
+unterhalten
+Jugendherberge
+bzw.
+bekannt geben
+Meister
+Interesse
+Energie
+Kunststoff
+Notruf
+Anrede
+verbrauchen
+froh
+der Bogen
+die Bank
+neben
+stattfinden
+zuschauen
+Tablette
+ec-Karte
+hungrig
+Rechner
+genügen
+Sänger

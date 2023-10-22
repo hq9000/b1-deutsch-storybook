@@ -1,22 +1,24 @@
-# Reise von Laura durch Wörterland
+# Ein Tag im Leben von Herr Meister
 
 story number 10, storybook ids: 371-402
 
-Eines Tages beschloss Laura, sich zu **waschen** und auf eine kleine Reise zu gehen. Sie hatte **die Bitte** an ihren Freund, sie zum **der Wohnort** ihrer Großmutter zu bringen. Während der Fahrt sagte sie: „**Die Entschuldigung**, könntest du bitte kurz anhalten? Ich möchte kurz **nach** dem Weg fragen.“
+Herr **Meister**, ein engagierter **Sänger** aus dem kleinen **Wohnort** Niederbach, wachte auf eines Morgens und fühlte sich nicht besonders **froh**. Er griff neben sein Bett, um nach seiner **Tablette** zu suchen, die er jeden Morgen einnahm, um Energie zu tanken.
 
-An einer Ecke sah sie Menschen, die hart **arbeiten**. Sie wollte ihnen für ihre Mühe **danken** und ging weiter. Nach einiger Zeit stolperte sie über **der Bauernhof**. Dort konnte sie sich mit einem netten Bauern **unterhalten**. Er erzählte ihr von einer **die Jugendherberge**, die in der Nähe war, wo sie übernachten könnte. 
+Er stand auf, ging ins Bad und begann, sich zu **waschen**. Dabei dachte er daran, wie viel **Energie** er heute **verbrauchen** würde, denn sein Tag war vollgepackt. Als Nächstes musste er zur **Bank**, um seine **ec-Karte** zu überprüfen, da er befürchtete, dass sie gestern an der **Jugendherberge** verloren gegangen war, wo er ein Seminar für **Kunststoff**-Verarbeitung **stattfinden** ließ.
 
-„Du könntest auch das Hotel auf der anderen Straße probieren **bzw.** die Herberge, je nachdem, was du bevorzugst“, sagte der Bauer. Laura entschied sich für die Herberge und dankte dem Bauer, bevor sie weiterging.
+Auf dem Weg dorthin traf er Frau Schmidt, die immer gerne ein Pläuschchen hielt. "Guten Morgen, Herr **Meister**! Kann ich Ihnen beim **zuschauen** helfen, wie Sie Ihr Auto **waschen**?", fragte sie mit einem Schmunzeln. "Danke, aber ich habe gerade kein **Interesse** daran. Ich bin gerade auf dem Weg zur **Bank**. Aber **bitte** **unterhalten** Sie mich doch auf dem Weg dorthin!", antwortete er.
 
-In der Herberge wollte sie ihre Buchung **bekannt geben**, und der Rezeptionist, **der Meister** des Hauses, zeigte **das Interesse** an ihrer Reise. Er gab ihr Tipps, was sie in der Stadt tun könnte. Sie entschied, dass ein Spaziergang und etwas **Energie** aus der örtlichen Bäckerei genau das war, was sie brauchte.
+Als er die **Bank** betrat, sagte er **"Entschuldigung, ich möchte gerne meine **ec-Karte** überprüfen**." Die Angestellte antwortete: "Natürlich, Herr **Meister**. Und **bzw.**, wenn Sie später **arbeiten**, möchten Sie dann nicht in **der Bauernhof** in der Nähe zu Mittag essen? Es wurde mir kürzlich **bekannt geben** dass sie das beste Essen im Ort haben."
 
-Sie sah viele Dinge aus **der Kunststoff** und hörte **der Notruf** von einem Auto. Sie grüßte die Menschen mit einer höflichen **die Anrede** und bemerkte, dass viele Autos viel Benzin **verbrauchen**. 
+Nachdem er die **Bank** verlassen hatte, sah er einen Bogen Papier auf dem Boden liegen. Es war **der Bogen** für den **Notruf**-Dienst. Er hob ihn auf und dachte: "Das könnte nützlich sein." 
 
-Nach dem Spaziergang fühlte sie sich **froh** und setzte sich in den Park unter **der Bogen**. Dort sah sie **die Bank**, wo Menschen in der Sonne saßen. Ein kleiner Junge spielte **neben** ihr, und ein Event schien im Park **stattfinden**. Sie entschied, sich zurückzulehnen und den Leuten beim Tanzen **zuschauen**.
+Er ging weiter und setzte sich auf **die Bank** **neben** dem Blumenladen. Er war **hungrig** und überlegte, ob er jetzt etwas essen sollte. Er sah in seine Tasche und fand seinen **Rechner**. Er dachte nach: "Sollte genügen, um herauszufinden, wie viel Geld ich für das Mittagessen brauche."
 
-Nach einer Weile bekam sie Kopfschmerzen und brauchte **die Tablette**. Zum Glück konnte sie mit **die ec-Karte** in der Apotheke bezahlen. Sie fühlte sich etwas **hungrig** und dachte daran, etwas zu essen zu bestellen.
+Am Ende des Tages kehrte Herr **Meister** nach Hause zurück und dachte über all die Ereignisse des Tages nach, besonders über die **Anrede** von Frau Schmidt und wie sie ihm immer wieder **danken** wollte.
 
-Als sie zurück in der Herberge war, benutzte sie **der Rechner** für ihre Arbeit. Sie dachte, das Essen würde **genügen** und freute sich auf das Konzert am Abend, wo **der Sänger** auf der Bühne stehen würde.
+---
+
+Ich hoffe, diese Geschichte hilft Ihnen, sich an die Worte zu erinnern! Es kann nützlich sein, sie ein paar Mal zu lesen, um die Wörter besser zu behalten.
 
 
 | the word            | English translation | Russian translation | Example sentence in German                               |
