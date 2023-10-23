@@ -45,7 +45,7 @@ create a table containing the following columns:
 1. the word
 2. english translation
 3. russian translation
-4. example sentence in german
+4. example sentence in german, preferably taken from the text or something similar.
 
 use all the words, don't cut it short even if the output is big. The table should be sorted alphabetically based on german words not considering articles (do not omit the articles in the table though, omit them only for sorting purposes).
 

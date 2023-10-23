@@ -1,0 +1,40 @@
+I will give you a list of german words. I want you to create a text that will help me to memorize them. It should have a title.
+
+It is important that every word is used.
+
+I want you to mark the words from the list bold.
+
+I want the story to be in general about "Klick"
+
+the list of words follows:
+
+langweilig
+Unterricht
+Supermarkt
+unter
+erhalten
+Klick
+Freundschaft
+vorn
+Fehler
+Wand
+fragen
+Nummer
+erstellen
+Lerner
+raus
+Fundbüro
+Rucksack
+Einführung
+Bankleitzahl
+Kellner
+dicht
+Diskothek
+Werk
+lernen
+erforderlich
+Sohn
+Anbieter
+Original
+Familienstand
+bei
