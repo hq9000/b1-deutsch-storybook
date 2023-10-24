@@ -1,0 +1,56 @@
+I will give you a list of german words. I want you to create a text that will help me to memorize them. It should have a title.
+
+It is important that every word is used.
+
+I want you to mark the words from the list bold.
+
+I want the story to be in general about "ein Freund von Fettverkäufer"
+
+the list of words follows:
+
+
+fett
+letzt
+Freund
+Wagen
+Ausgang
+Hörer
+man
+Stelle
+unterwegs
+verbringen
+(sich) schneiden
+garantieren
+Verlierer
+eckig
+Poulet
+Getränk
+Fachmann
+seltsam
+regional
+Technologie
+wenig
+schaffen
+die Etage
+Speise
+die Hand
+treffen
+über
+Musik
+Halt
+Verkäufer
+
+
+===============================================
+
+create a table containing the following columns:
+
+1. the word
+2. english translation
+3. russian translation
+4. example sentence in german, preferably taken from the text or something similar.
+
+use all the words, don't cut it short even if the output is big. The table should be sorted alphabetically based on german words not considering articles (do not omit the articles in the table though, omit them only for sorting purposes).
+
+
+create this table as you usually do, in markdown
