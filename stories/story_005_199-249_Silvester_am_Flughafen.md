@@ -70,6 +70,8 @@ Ich dachte, das ist **wahnsinnig**. Ich entschied mich, meine Wartezeit zu **zä
 
 Ich hörte plötzlich jemanden sagen, „**Zusammenfassen** bitte!“ und bemerkte, dass ich meine **Zigarette** auf dem Boden verloren hatte. Ein **Leiter** von einer **Notaufnahme**-Abteilung kam vorbei und riet mir, sicherer zu sein und mich zu **versichern**.
 
+![image](pictures/story_005_pic_01.png)
+
 Als ich endlich ankam, begrüßten mich meine Eltern mit einer warmen **Umarmung**. Meine Mutter sagte, dass sie gerade eine **Rüebli**-Suppe gemacht hat und dass das **Bad** bereit ist, falls ich mich frisch machen möchte. Mein Vater fügte hinzu, dass **zuletzt** die **Qualität** des Wassers verbessert wurde, da sie ein neues Filtersystem installiert hatten.
 
 Ich lachte und sagte, „Es ist **zufällig**, ich habe tatsächlich einen **Staub**-Filter für euch gekauft!“. Wir lachten und genossen unsere **Ferien** **zusammen**.
