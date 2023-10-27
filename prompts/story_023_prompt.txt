@@ -1,0 +1,66 @@
+I will give you a list of german words. I want you to create a story that will help me to memorize them. It should have a title.
+
+Each story must have a title of no more than 4 words.
+
+It is important that every word is used.
+I want you to mark the words from the list bold.
+
+
+the list of words follows:
+
+Autor
+übertragen
+einfach
+umtauschen
+spielen
+das Verbot
+schnell
+beschränken
+sympathisch
+gestern
+Zeugnis
+link
+noch
+passieren
+hassen
+achten
+der Magen
+der Ofen
+sterben
+Seife
+trocken
+sinnlos
+Gold
+richtig
+derselbe
+Knochen
+Laden
+Finger
+Teilnehmer
+Rentner
+
+===============================================
+
+write the same text, but as a table, rows corresponds to paragraphs, title occupies the first row. 
+the first column of this table must be this german text, 
+the second - its corresponding english translation,
+the third - russian translation
+
+do not cut paragraphs short.
+
+Use markdown format for the table.
+
+===============================================
+
+create a table containing the following columns:
+
+1. the word
+2. english translation
+3. russian translation
+4. example sentence in german, preferably taken from the text or something similar.
+
+use all the words, don't cut it short even if the output is big. The table should be sorted alphabetically based on german words not considering articles (do not omit the articles in the table though, omit them only for sorting purposes).
+
+in the first column, if the word is a noun, add a definite article.
+
+create this table as you usually do, in markdown
