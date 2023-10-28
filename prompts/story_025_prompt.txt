@@ -8,36 +8,36 @@ I want you to mark the words from the list bold.
 
 the list of words follows:
 
-Kreis
-wahrscheinlich
-das Ende
-übersetzen
-Ausfahrt
-politisch
-Briefträger
-klopfen
-warten
-gegenüber
-Schokolade
-Schild
-Lust
-geschieden
-Erfolg
-korrekt
-Karneval
-Sicherheit
-Dauer
-dürfen
-Postleitzahl
-Forderung
-Creme
-ernsthaft
-Hälfte
-Wetterbericht
-hinten
-regelmäßig
-Prost
-stilistisch
+der Prozess
+die Einrichtung
+das Gesetz
+das System
+der Berg
+die Gaststätte
+schön
+das Lager
+der Zweifel
+die Wahrheit
+die Nachspeise
+das Konsulat
+wegen
+der Mantel
+die Fähigkeit
+sich konzentrieren
+der Führerausweis
+original
+unten
+der Kandidat
+das Lokal
+die Förderung
+gucken
+der Honig
+die Gratulation
+vertreten
+der Koffer
+kulturell
+erst
+der Braten
 
 ===============================================
 
@@ -64,3 +64,4 @@ use all the words, don't cut it short even if the output is big. The table shoul
 in the first column, if the word is a noun, add a definite article.
 
 create this table as you usually do, in markdown
+
