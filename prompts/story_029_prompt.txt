@@ -8,36 +8,36 @@ I want you to mark the words from the list bold.
 
 the list of words follows:
 
-versuchen
-die Polizei
-bitte
-Zuhörer
-Halbpension
-Brücke
-anbieten
-Bio-
-Hauptstadt
-fliehen
-Verkehrszeichen
-Hersteller
-sich verlaufen
-sowieso
-berichten
-die Stufe
-lecker
-Garage
-heiraten
-ablehnen
-Glas, ¨-er
-Menü
-Fleischhauer
-Auge
-fahren
-verabschieden
-Coiffeur
-Banane
-natürlich
-einkaufen
+erzählen
+schwach
+stehen bleiben
+Frage
+Auftritt
+kontrollieren
+vor
+Führung
+Hemd
+abstimmen
+umsteigen
+miteinander
+Anleitung
+Ursache
+Zvieri
+Trinkgeld
+Praxis
+finanziell
+Aprikose
+Körper
+See
+Lampe
+-weise
+Stadion
+Mappe
+Gewerkschaft
+dunkel
+Schutz
+ansehen
+retten
 
 ===============================================
 
@@ -46,7 +46,7 @@ the first column of this table must be this german text,
 the second - its corresponding english translation,
 the third - russian translation
 
-do not cut paragraphs short. 
+do not cut paragraphs short. write full sentences.
 
 Use markdown format for the table.
 

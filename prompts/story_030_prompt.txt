@@ -2,42 +2,42 @@ I will give you a list of german words. I want you to create a story that will h
 
 Each story must have a title of no more than 4 words.
 
-It is important that every word is used.
+It is important that every word is used. Try to use as many words as possible, it is good if the word is user more than once.
 I want you to mark the words from the list bold.
 
 
 the list of words follows:
 
-versuchen
-die Polizei
-bitte
-Zuhörer
-Halbpension
-Brücke
-anbieten
-Bio-
-Hauptstadt
-fliehen
-Verkehrszeichen
-Hersteller
-sich verlaufen
-sowieso
-berichten
-die Stufe
-lecker
-Garage
-heiraten
-ablehnen
-Glas, ¨-er
-Menü
-Fleischhauer
-Auge
-fahren
-verabschieden
-Coiffeur
-Banane
-natürlich
-einkaufen
+Lexikon
+eigen
+Ärger
+sich vergnügen
+Kauf
+aussprechen
+Kalender
+Studie
+weit
+Scheibe
+Jeans
+vorlesen
+höflich
+umarmen
+Ski
+Portion
+Brief
+notieren
+Buchstabe
+markieren
+ziehen
+Gefahr
+Geschirr
+Wärme
+normal
+dann
+anklicken
+Bankomat-Karte
+Kaffee
+stehlen
 
 ===============================================
 
