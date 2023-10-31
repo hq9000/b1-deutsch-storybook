@@ -9,36 +9,36 @@ I want you to mark the words from the list bold.
 the list of words follows:
 
 
-Quiz
-Schwammerl
-Flöte
-speichern
-schminken
-korrigieren
-ausfallen
-festnehmen
-fehlen
-Blick
-Übung
-Anruf
-Garten
-günstig
-Respekt
-Operation
-Krankenwagen
-Tempo
-umgekehrt
-erfolgreich
-Ausland
-auflösen
-Verletzung
-Gemüse
-Besuch
-glücklich
-schließen
-jetzt
-Verwaltung
-Fläche
+voneinander
+zahlreich
+Kino
+Sofa
+Asyl
+sichtbar
+Blume
+Behörde
+Feiertag
+Tüte
+Kapitel
+Münze
+Reporter
+landen
+Rede
+Universität
+intensiv
+mehr
+das Land
+entscheiden
+die U-Bahn
+Elektro
+tolerant
+Stecker
+Schlagrahm
+Verkehrsmittel
+Mangel
+Stimme
+Grippe
+Gewinn
 
 ===============================================
 
