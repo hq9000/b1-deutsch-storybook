@@ -1,6 +1,6 @@
 I will give you a list of german words. I want you to create a story, in German, that will help me to memorize them. It should have a title.
 
-The story must have a title. The words from the list should be bold.
+The story must have a title of no more than 4 words. The words from the list should be bold.
 
 It is important that every word is used.
 I want you to mark the words from the list bold.
@@ -8,36 +8,46 @@ I want you to mark the words from the list bold.
 
 the list of words follows:
 
-die Reportage
-prima
-messen
-erleben
-das Kuvert
-kürzlich
-das Rohr
-die Intelligenz
-geheim
-sorgen
-neulich
-vorsichtig
-die Laune
-zusammen
-befriedigend
-die Fernbedienung
-meist(ens)
-die Vorstellung
-fernsehen
-der Mieter
-die Mühe
-ruhig qwerty
-das Hobby
-sich erkälten
-lügen
-ergänzen
-reiten
-der Typ
-das Haar
-das Girokonto
+außerhalb
+anders
+Grenze
+zusagen
+zufrieden
+das Dessert
+Tafel
+Tropfen
+Sendung
+verboten
+übernehmen
+rund
+berühmt
+Lüge
+aus
+Präsentation
+Ereignis
+eröffnen
+wie
+schwer
+der Appetit
+kaum
+das Interview
+das Fleisch
+trainieren
+um
+die Flucht
+regnen
+die Anmeldung
+wissen
+Natur
+Mal
+erfüllen
+komplett
+die Schere
+die Rückkehr
+frieren
+Knie
+Papier
+beachten
 
 
 ===============================================
