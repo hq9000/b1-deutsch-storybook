@@ -1,0 +1,89 @@
+I have the following list of german words:
+
+einzahlen
+beinahe
+verzichten
+einführen
+anschaffen
+das Hendl
+schimpfen
+ mangelhaft
+darstellen
+ausstellen
+abgeben
+die Schüssel
+der Abfalleimer
+vergnügt
+einschalten
+begleiten
+das Gefängnis
+stechen
+sich scheiden lassen
+das Einschreiben
+greifen
+betreuen
+vergeblich
+spüren
+versäumen
+ausrichten
+aufregen
+schweigen
+schieben
+frech
+der Wirt
+die Büchse
+endgültig
+nachher
+
+create a markdown table with the following columns:
+
+1. the word
+2. english translation
+3. russian translation
+4. write a short example text with at least 3 sentences, use the word in different forms and as many times as possible. Mark the word bold. Try to make sentences connected to form a coherent story. Write at least 3 sentences.
+5. translation of these examples into english
+6. translation of these examples into russian
+
+!==========
+
+
+I have the following list of german words:
+
+einzahlen
+beinahe
+verzichten
+einführen
+anschaffen
+das Hendl
+schimpfen
+ mangelhaft
+darstellen
+ausstellen
+abgeben
+die Schüssel
+der Abfalleimer
+vergnügt
+einschalten
+begleiten
+das Gefängnis
+stechen
+sich scheiden lassen
+das Einschreiben
+greifen
+betreuen
+vergeblich
+spüren
+versäumen
+ausrichten
+aufregen
+schweigen
+schieben
+frech
+der Wirt
+die Büchse
+endgültig
+nachher
+
+write a coherent text in german using all of the words from the list above, it should have a title and a summary. The words from the list should be in bold.
+
+Do not use words "Day" or "Adventure" in the the title, also in German.
