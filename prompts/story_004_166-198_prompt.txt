@@ -1,0 +1,95 @@
+I have the following list of german words:
+
+verzeihen
+die Gegend
+verschwinden
+beobachten
+der Fauteuil
+sich ereignen
+genehmigen
+anschnallen
+der Einfall
+halt
+der Schreck
+zugehen
+gelingen
+geschehen
+schief
+vorläufig
+die Zange
+erledigen
+aufpassen
+drin, drinnen
+kündigen
+eintreten
+behandeln
+unheimlich
+eben
+schütteln
+annehmen
+das Verhältnis
+die Beschäftigung
+der Zuschlag
+die Aufforderung
+klagen
+erziehen
+die Schulter
+das Opfer
+das Schaf
+sämtliche
+
+create a markdown table with the following columns:
+
+1. the word
+2. english translation
+3. russian translation
+4. write a short example text with at least 3 sentences, use the word in different forms and as many times as possible. Mark the word bold. Try to make sentences connected to form a coherent story. Write at least 3 sentences.
+5. translation of these examples into english
+6. translation of these examples into russian
+
+!==========
+
+
+I have the following list of german words:
+
+verzeihen
+die Gegend
+verschwinden
+beobachten
+der Fauteuil
+sich ereignen
+genehmigen
+anschnallen
+der Einfall
+halt
+der Schreck
+zugehen
+gelingen
+geschehen
+schief
+vorläufig
+die Zange
+erledigen
+aufpassen
+drin, drinnen
+kündigen
+eintreten
+behandeln
+unheimlich
+eben
+schütteln
+annehmen
+das Verhältnis
+die Beschäftigung
+der Zuschlag
+die Aufforderung
+klagen
+erziehen
+die Schulter
+das Opfer
+das Schaf
+sämtliche
+
+write a coherent text in german using all of the words from the list above, it should have a title and a summary. The words from the list should be in bold.
+
+Do not use words "Day" or "Adventure" in the the title, also in German.
