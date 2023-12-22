@@ -1,8 +1,4 @@
-!
-Certainly! Here's a Markdown table based on the information you provided:
 
-markdown
-Copy code
 | German Word        | English Translation | Russian Translation | Example Text                                                                                                                                                           | English Example Translation                                                                                                          | Russian Example Translation                                                                                                         |
 |--------------------|----------------------|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | das Möbel          | furniture            | мебель               | Ich habe **Möbel** für mein neues Zuhause gekauft. Sie sind modern und bequem. Am Wochenende werde ich die **Möbel** arrangieren. Dann kann ich endlich entspannen. | I bought **furniture** for my new home. It's modern and comfortable. This weekend, I will arrange the **furniture**. Then I can finally relax.              | Я купил **мебель** для своего нового дома. Это современно и удобно. В этот уикенд я устрою **мебель**. Тогда я, наконец, смогу расслабиться.       |

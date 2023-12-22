@@ -4,7 +4,7 @@ story 11, words 403-432
 
 In einer kleinen Stadt, in der die **Welt** etwas anders war, lebte ein **Messer** namens Max. Max war kein gewöhnliches Messer; er wollte immer etwas an sich **verändern**. **Normalerweise** nutzte man ein Messer, um **Lebensmittel** zu schneiden, aber Max träumte davon, mehr zu sein.
 
-Eines Tages las Max von einer **Sportart**, bei der man mit Messern auf eine **Tomate** zielen musste. Dies faszinierte ihn. Aber es gab ein **Problem**. Max wusste nicht, wie er teilnehmen konnte, denn er war ja ein Messer und konnte nicht **tippen** oder sprechen. Aber er hatte viele **Bekannte** in der Stadt. 
+Eines Tages las Max von einer **Sportart**, bei der man mit Messern auf eine **Tomate** zielen musste. Dies faszinierte ihn. Aber es gab ein **Problem**. Max wusste nicht, wie er teilnehmen konnte, denn er war ja ein Messer und konnte nicht **tippen** oder sprechen. Aber er hatte viele **Bekannte** in der Stadt.
 
 Er erinnerte sich an seine **Frucht**-Freunde, besonders an die **Obst**-Gruppe, zu der Apfel, Banane und Orange gehörten. Sie schlugen ihm vor, zu einer **Messe** zu gehen, wo es viele Dinge rund um die Küche gab. Vielleicht würde er dort etwas finden, um sich zu **verändern**.
 

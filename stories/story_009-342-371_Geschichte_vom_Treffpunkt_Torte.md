@@ -1,4 +1,4 @@
-## Geschichte vom Treffpunkt Torte**
+# Geschichte vom Treffpunkt Torte**
 
 story number 9, storybook ids: 342-371
 
@@ -40,6 +40,6 @@ In einer kleinen Stadt gab es einen bekannten **Treffpunkt** namens "**Willkomme
 
 Der Besitzer des Cafés war ein **freundlicher** Mann, der früher **Anwalt** war. Er hatte den Beruf gewechselt, weil ihm die **Mobilität** im Caféleben besser gefiel. Sein **Partner**, ein Statistiker, war **treu** an seiner Seite. Gemeinsam machten sie **schriftlich** alle Geschäfte.
 
-In der Ecke des Cafés stand ein **Bett** mit einem großen **Bildschirm** darüber. Man konnte nicht einfach **verwechseln**, dass es ein Café war, denn auf dem **Bildschirm** lief immer eine **Linie** von Zahlen, die die **Heizung** im Raum steuerten. Der Statistiker hatte dieses System **insgesamt** entwickelt, um die **Voraussetzung** für ein perfektes Klima im Raum zu schaffen. Jeder **Schritt** im Café war genau geplant. Um die Technik zu **schalten**, gab es eine spezielle **Medizin** - zumindest nannte er es so aus Spaß. Einige Besucher sagten sogar: „Es tut fast **wehtun**, zu sehen, wie fortgeschritten diese Technik ist.“ 
+In der Ecke des Cafés stand ein **Bett** mit einem großen **Bildschirm** darüber. Man konnte nicht einfach **verwechseln**, dass es ein Café war, denn auf dem **Bildschirm** lief immer eine **Linie** von Zahlen, die die **Heizung** im Raum steuerten. Der Statistiker hatte dieses System **insgesamt** entwickelt, um die **Voraussetzung** für ein perfektes Klima im Raum zu schaffen. Jeder **Schritt** im Café war genau geplant. Um die Technik zu **schalten**, gab es eine spezielle **Medizin** - zumindest nannte er es so aus Spaß. Einige Besucher sagten sogar: „Es tut fast **wehtun**, zu sehen, wie fortgeschritten diese Technik ist.“
 
 „**Eher** ein Wunder der Technik“, lachte der Besitzer. Als **Beispiel** dafür, wie innovativ sie waren, stand mitten im Raum ein interessanter **Gegenstand**, den sie als Dekoration verwendet hatten. "**Außer** uns hat niemand so etwas!", sagte er stolz. Und in diesem Punkt hatte er definitiv recht.

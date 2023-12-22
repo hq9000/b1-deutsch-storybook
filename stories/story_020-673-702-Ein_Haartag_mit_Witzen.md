@@ -1,10 +1,10 @@
 **Ein Haartag mit Witzen**
 
-In einem kleinen Salon in der Mitte der Stadt arbeitete Heidi **Vollzeit** als Friseurin. Zwischen dem Schneiden, Färben und Stylen der Haare nahm sie sich immer die Zeit, ihren Kunden ein paar Witze zu erzählen. 
+In einem kleinen Salon in der Mitte der Stadt arbeitete Heidi **Vollzeit** als Friseurin. Zwischen dem Schneiden, Färben und Stylen der Haare nahm sie sich immer die Zeit, ihren Kunden ein paar Witze zu erzählen.
 
 *Erster Witz: Der Zirkus*
 
-"Kennen Sie den **Zirkus**, der **zurzeit** in der Stadt ist?", fragte Heidi, während sie die **Frisur** eines Kunden richtete. "Ja, ich war da! Die **Stimmung** war toll!" antwortete der Kunde. "Wussten Sie, dass sie **parallel** zur Manege auch ein **Brot**-Wurf-Wettbewerb hatten? Das **Alphabet**-Team hat gewonnen, weil 'A' immer vor 'Brot' kommt! Haha!", lachte Heidi. 
+"Kennen Sie den **Zirkus**, der **zurzeit** in der Stadt ist?", fragte Heidi, während sie die **Frisur** eines Kunden richtete. "Ja, ich war da! Die **Stimmung** war toll!" antwortete der Kunde. "Wussten Sie, dass sie **parallel** zur Manege auch ein **Brot**-Wurf-Wettbewerb hatten? Das **Alphabet**-Team hat gewonnen, weil 'A' immer vor 'Brot' kommt! Haha!", lachte Heidi.
 
 *Zweiter Witz: Die Straßenbahn*
 
@@ -12,14 +12,10 @@ In einem kleinen Salon in der Mitte der Stadt arbeitete Heidi **Vollzeit** als F
 
 *Dritter Witz: Das Geschenk*
 
-"Heidi, was kann ich meiner Freundin als **Geschenk** geben?", fragte ein Kunde. "Oh, ich kann dir **leiten**! Warum gibst du ihr nicht ein DIY **Frisur**-Set? Es hat alles: von der **Marke** bis zur **Seite**-Anweisung. Und wenn sie sonst nichts damit anfangen kann, kann sie immer noch das Shampoo zum **Abwaschen** verwenden! Und vergiss nicht, eine süße Notiz zu schreiben, die sagt: 'Für die **süß**este Person, die ich **anerkennen**.'", schlug Heidi vor und **weckte** Lächeln auf dem Gesicht des Kunden. 
+"Heidi, was kann ich meiner Freundin als **Geschenk** geben?", fragte ein Kunde. "Oh, ich kann dir **leiten**! Warum gibst du ihr nicht ein DIY **Frisur**-Set? Es hat alles: von der **Marke** bis zur **Seite**-Anweisung. Und wenn sie sonst nichts damit anfangen kann, kann sie immer noch das Shampoo zum **Abwaschen** verwenden! Und vergiss nicht, eine süße Notiz zu schreiben, die sagt: 'Für die **süß**este Person, die ich **anerkennen**.'", schlug Heidi vor und **weckte** Lächeln auf dem Gesicht des Kunden.
 
 Der Tag **setzte** sich so **fort**. Kunden kamen und gingen, aber eines war sicher: Sie verließen den Salon nicht nur mit einer frischen Frisur, sondern auch mit einem Lächeln im Gesicht.
 
-
-Of course! Here's the table, sorted alphabetically by German words (omitting the articles for sorting). Note that I am using approximate translations, and context may affect the accuracy of the translations:
-
-```markdown
 | German Word          | English Translation     | Russian Translation    | Example Sentence in German                                                   |
 |----------------------|-------------------------|------------------------|------------------------------------------------------------------------------|
 | das **Abwaschen**    | washing up, rinsing     | мытьё (мытье)          | "… und musste alle Bücher **abwaschen**!"                                   |
@@ -51,7 +47,3 @@ Of course! Here's the table, sorted alphabetically by German words (omitting the
 | **zumachen**         | close, shut             | закрыть                | "… vergaß er, die Fenster **zumachen**,"                                    |
 | der **Zirkus**       | circus                  | цирк                   | "Kennen Sie den **Zirkus**, der **zurzeit** in der Stadt ist?"               |
 | **zurzeit**          | currently               | в настоящее время      | "Kennen Sie den **Zirkus**, der **zurzeit** in der Stadt ist?"               |
-
-```
-
-Please note that translations, especially between languages as different as German, English, and Russian, can be tricky and context-dependent. Always cross-check when using translations for important work.

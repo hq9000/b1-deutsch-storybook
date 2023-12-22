@@ -1,4 +1,4 @@
-## Geschichte eines blutenden Vogels
+# Geschichte eines blutenden Vogels
 
 story number 7, storybook ids: 280-310
 

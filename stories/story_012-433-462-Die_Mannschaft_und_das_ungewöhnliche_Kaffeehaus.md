@@ -1,12 +1,10 @@
 # Die Mannschaft und das ungewöhnliche Kaffeehaus
 
-story 12, 433-462
-
 Eines Tages fand sich die **Mannschaft** in einem seltsamen **Kaffeehaus** mitten in der Stadt. Es war kein gewöhnliches Café, sondern ein **sogenanntes** Café der Erinnerungen.
 
 Im Eingangsbereich hing ein **Schildkröte**-Telefon, ein **Telefon** in Form einer Schildkröte. Niemand hatte so etwas je gesehen! Als das Telefon klingelte, ertönte ein melodisches **Lied**, das die Gäste zum Mitsingen animierte.
 
-Die Kellnerin, eine **sportlich** aussehende Frau mit einem prächtigen **Bart**, servierte den Gästen Kaffee und erzählte ihnen von ihrer **Reise** um die Welt. Ihre Abenteuer waren so faszinierend, dass es schwer zu **glauben** war. 
+Die Kellnerin, eine **sportlich** aussehende Frau mit einem prächtigen **Bart**, servierte den Gästen Kaffee und erzählte ihnen von ihrer **Reise** um die Welt. Ihre Abenteuer waren so faszinierend, dass es schwer zu **glauben** war.
 
 Auf einem Tisch in der **Mitte** des Raumes lag eine Zeitschrift über **Politik** und **Rekorde**. Ein Artikel berichtete von einem **Radfahrer**, der einen neuen Weltrekord aufgestellt hatte. Er hatte dies geschafft, obwohl er während des Trainings eine strenge **Diät** befolgte und oft bei **Regen** fuhr.
 
