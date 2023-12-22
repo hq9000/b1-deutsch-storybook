@@ -25,6 +25,7 @@ jobs:
         python-version: "3.11"
     - name: Install dependencies
       run: |
+        sudo apt-get update
         sudo apt-get install pandoc
         sudo apt-get install pdflatex
         sudo apt-get install texlive-xetex
