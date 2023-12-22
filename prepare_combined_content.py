@@ -65,7 +65,7 @@ def get_combined_md_content(input_dir):
         [
             "\n",
             "---",
-            f"title: {global_title.replace('# ', '')}",
+            f"title: xxxxxx",
             "author: chatGPT-3.5, prompted, curated and compiled by Sergey Grechin and contributors",
             "date: 2023",
             "geometry: margin=2cm, landscape",
