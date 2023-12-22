@@ -37,3 +37,9 @@ jobs:
       with:
         name: b1-deutsch-ai-storybook-eng-rus.pdf
         path: b1-deutsch-ai-storybook-eng-rus.pdf
+
+    - name: Archive artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: combined_content.md
+        path: combined_content.md
