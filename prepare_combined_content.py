@@ -1,8 +1,6 @@
 import os
 import re
 import shutil
-import subprocess
-import sys
 import tempfile
 
 
@@ -19,11 +17,9 @@ def _extract_chapter_number(input_file_path: str) -> int:
 
 
 def _get_processed_story_content(input_file_path) -> str:
-    # Read the content of the input MD file
     with open(input_file_path, "r", encoding="utf-8") as file:
         content = file.read()
 
-    # Extract the title from the first # or ## block
     match = re.search(r"#{1,2}\s+(.+?)(\n|$)", content)
     title = match.group(1) if match else "Untitled"
 
@@ -31,7 +27,6 @@ def _get_processed_story_content(input_file_path) -> str:
 
     chapter_number = _extract_chapter_number(input_file_path) + 1
 
-    # Find the first line starting with "# "
     lines = content.split("\n")
     filtered_lines = []
     for i, line in enumerate(lines):
@@ -48,7 +43,6 @@ def _get_processed_story_content(input_file_path) -> str:
 
     content = "\n".join(lines)
 
-    # Add metadata to the content
     metadata = (
         f"---\ntitle: {chapter_number}. {title}\nchapter: {chapter_number}\n---\n\n"
     )
@@ -116,7 +110,6 @@ if __name__ == "__main__":
 
     # Create a temporary directory
     with tempfile.TemporaryDirectory() as temp_dir:
-
         shutil.copytree("stories/pictures", f"{temp_dir}/pictures")
 
         temp_file_path = os.path.join("", "combined_content.md")
