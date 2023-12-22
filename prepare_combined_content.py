@@ -101,6 +101,10 @@ def get_combined_md_content(input_dir):
             + _get_processed_story_content(input_file)
         )
 
+    # this one is to possibly overcome some weird behavior, so far only
+    # seen in github that the latest title is taken as the "global" one.
+    combined_content += f"\n\n---\ntitle: {global_title}: 1\n---\n\n"
+
     return combined_content
 
 
