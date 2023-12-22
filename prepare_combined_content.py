@@ -43,9 +43,7 @@ def _get_processed_story_content(input_file_path) -> str:
 
     content = "\n".join(lines)
 
-    metadata = (
-        f"---\ntitle: {chapter_number}. {title}\nchapter: {chapter_number}\n---\n\n"
-    )
+    metadata = ""
 
     return metadata + content
 
@@ -78,13 +76,10 @@ def get_combined_md_content(input_dir):
         ]
     )
 
-    readme_metadata = "---\ntitle: Prephase\nchapter: 1\n---\n\n"
-
     readme_content = readme_content.replace(global_title, "## Preface")
 
     combined_content = combined_content + "\n\n"
 
-    combined_content += readme_metadata
     combined_content += readme_content
 
     # Iterate through all .md files in the input directory
@@ -100,10 +95,6 @@ def get_combined_md_content(input_dir):
             + "\n\n"
             + _get_processed_story_content(input_file)
         )
-
-    # this one is to possibly overcome some weird behavior, so far only
-    # seen in github that the latest title is taken as the "global" one.
-    combined_content += f"\n\n---\ntitle: {global_title}: 1\n---\n\n"
 
     return combined_content
 
