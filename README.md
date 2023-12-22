@@ -10,6 +10,9 @@ The official homepage of this book is: [https://github.com/hq9000/b1-deutsch-sto
 
 For suggestions, please write an issue on Github or drop me a line at grechin.sergey@gmail.com. Pull requests are welcome as well.
 
+To get the latest version please go here: [https://github.com/hq9000/b1-deutsch-storybook/releases/latest/download/b1-deutsch-ai-storybook-eng-rus.pdf](https://github.com/hq9000/b1-deutsch-storybook/releases/latest/download/b1-deutsch-ai-storybook-eng-rus.pdf)
+
+
 Have fun!
 
 _Sergey_
