@@ -37,7 +37,7 @@ def _get_processed_story_content(input_file_path) -> str:
         line = _replace_multiple_dashes(line)
         filtered_lines.append(line)
 
-    headline = f"# {chapter_number}. {title}"
+    headline = f"## {chapter_number}. {title}"
 
     lines = [headline, *filtered_lines]
 
@@ -61,11 +61,13 @@ def get_combined_md_content(input_dir):
 
     assert global_title is not None
 
-    combined_content = "\n".join(
+    combined_content = "\\newpage\n\n" + global_title + "\n"
+
+    combined_content += "\n".join(
         [
             "\n",
             "---",
-            f"title: xxxxxx",
+            f"title: {global_title.replace('# ', '')}",
             "author: chatGPT-3.5, prompted, curated and compiled by Sergey Grechin and contributors",
             "date: 2023",
             "geometry: margin=2cm, landscape",
@@ -78,9 +80,9 @@ def get_combined_md_content(input_dir):
 
     readme_metadata = "---\ntitle: Prephase\nchapter: 1\n---\n\n"
 
-    readme_content = readme_content.replace(global_title, "# Preface")
+    readme_content = readme_content.replace(global_title, "## Preface")
 
-    combined_content = combined_content + "\n\n" + "\\newpage" + "\n\n"
+    combined_content = combined_content + "\n\n"
 
     combined_content += readme_metadata
     combined_content += readme_content
