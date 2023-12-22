@@ -1,4 +1,4 @@
-**Ein Haartag mit Witzen**
+# Ein Haartag mit Witzen
 
 In einem kleinen Salon in der Mitte der Stadt arbeitete Heidi **Vollzeit** als Friseurin. Zwischen dem Schneiden, Färben und Stylen der Haare nahm sie sich immer die Zeit, ihren Kunden ein paar Witze zu erzählen.
 

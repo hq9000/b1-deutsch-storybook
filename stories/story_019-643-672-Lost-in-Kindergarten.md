@@ -1,4 +1,4 @@
-**Lost in Kindergarten**
+# Lost in Kindergarten
 
 Im kleinen Dorf lebte ein **Mensch** namens Felix. Eines Tages erhielt er einen **Fotoapparat** als Geschenk. Es war nicht irgendein alter Fotoapparat, sondern ein **neu**er. Er entschied sich **freiwillig**, Bilder im örtlichen **Kindergarten** zu machen.
 

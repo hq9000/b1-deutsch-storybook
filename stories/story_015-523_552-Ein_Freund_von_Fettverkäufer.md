@@ -1,10 +1,10 @@
-**Ein Freund von Fettverkäufer**
+# Ein Freund von Fettverkäufer
 
 Es war einmal **Fettverkäufer**, der in einem kleinen **regional**en Dorf lebte. Er war nicht nur bekannt für sein **fett**es **Poulet**, sondern auch für seine eckigen Brötchen. Trotz seines seltsamen Namens war er ein echter **Fachmann** in der **Technologie** des Kochens.
 
-An einem **letzt**en Wochenende entschied sich sein bester **Freund**, ihn zu besuchen. Sie hatten sich seit der Schulzeit nicht **getroffen**, und es war an der Zeit, einige alte Erinnerungen aufzufrischen. 
+An einem **letzt**en Wochenende entschied sich sein bester **Freund**, ihn zu besuchen. Sie hatten sich seit der Schulzeit nicht **getroffen**, und es war an der Zeit, einige alte Erinnerungen aufzufrischen.
 
-"Hey! Es ist lange her, seitdem wir uns **gesehen** haben", sagte der **Freund** und gab ihm **die Hand**. 
+"Hey! Es ist lange her, seitdem wir uns **gesehen** haben", sagte der **Freund** und gab ihm **die Hand**.
 
 "Ich **garantiere** dir, dass wir eine tolle Zeit **verbringen** werden", antwortete der Fettverkäufer und lachte. "Ich habe eine besondere **Speise** vorbereitet und ein **Getränk**, das dir sicher gefallen wird."
 

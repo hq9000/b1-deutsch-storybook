@@ -1,4 +1,4 @@
-**Die Sucht nach Handys und Orangen**
+# Die Sucht nach Handys und Orangen
 
 In einer kleinen Stadt lebte eine **Bekannte** namens Marta. Sie war früher ein aktiver **Sportler**, aber in den letzten Jahren hatte sie eine merkwürdige **Sucht** entwickelt. Jeden Morgen ging sie **halbtags** auf den **Flohmarkt**, nicht um alte Bücher zu **lesen** oder nach Schätzen zu suchen, sondern um **Orangen** zu kaufen.
 
