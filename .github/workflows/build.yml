@@ -31,3 +31,9 @@ jobs:
     - name: build
       run: |
         bash build_pdf.sh
+
+    - name: Archive artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: b1-deutsch-ai-storybook-eng-rus.pdf
+        path: b1-deutsch-ai-storybook-eng-rus.pdf
