@@ -38,3 +38,12 @@ jobs:
         name: b1-deutsch-ai-storybook-eng-rus.pdf
         path: b1-deutsch-ai-storybook-eng-rus.pdf
 
+    - name: Release
+      uses: "marvinpinto/action-automatic-releases@latest"
+      with:
+        repo_token: "${{ secrets.GITHUB_TOKEN }}"
+        automatic_release_tag: "latest"
+        prerelease: false
+        title: "Automatic build"
+        files: |
+          b1-deutsch-ai-storybook-eng-rus.pdf
